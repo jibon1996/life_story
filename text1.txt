@@ -4,3 +4,4 @@ my complet HSC 2016.
 i have completed my study.
 i want to pull this text.
 i have laerning my web development still now.
+logo alignment is centered 
