@@ -4,6 +4,6 @@ my complet HSC 2016.
 i have completed my study.
 i want to pull this text.
 i have laerning my web development still now.
-logo alignment is centered 
-new line added in feature branch.
-some changes important code from main branch.
+some changes from feature1 branch
+
+
